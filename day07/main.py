@@ -1,4 +1,4 @@
-from replit import clear
+from replit import clear # type: ignore
 import random
 from hangman_words import word_list
 from hangman_art import stages, logo2, logo3

@@ -1,0 +1,32 @@
+#Home 4
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+    
+def move1():
+    move()
+    move()
+    move()
+
+move1()    
+turn_left()
+move1()
+turn_right()
+move()
+turn_right()
+move1()
+turn_left()
+move1()
+turn_right()
+move()
+turn_right()
+move1()
+turn_left()
+move1()
+turn_right()
+move()
+turn_right()
+move1()
+turn_left()
+move1()
